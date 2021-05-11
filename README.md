@@ -44,12 +44,9 @@
 
 </details>
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shihabmilky1&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://shihab-milky.web.app
 [instagram]: https://instagram.com/shihabmilky
