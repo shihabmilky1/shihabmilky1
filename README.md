@@ -41,8 +41,6 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
